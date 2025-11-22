@@ -1,4 +1,5 @@
 //esto solo es para checar si esta correcto con la base de dato y se conecta 
+/*
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using backend_proyect.Models;
@@ -80,4 +81,4 @@ namespace backend_proyect.Controllers
             });
         }
     }
-}
+}*/

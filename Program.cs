@@ -7,7 +7,7 @@ using backend_proyect.Models;
 using backend_proyect.Services;
 using backend_proyect.Services.Interfaces;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
-using HealthChecks.UI.Client;
+//using HealthChecks.UI.Client;
 
 var builder = WebApplication.CreateBuilder(args);
 
